@@ -1,0 +1,4 @@
+# OnlineGame
+
+OnlineGame里面包含OnlineGameClient和OnlineGameServer，前者为游戏客户端，后者为服务器。
+在服务器里面需要更改数据库密码等设置，数据库可更加提供的SQL文件创建。
