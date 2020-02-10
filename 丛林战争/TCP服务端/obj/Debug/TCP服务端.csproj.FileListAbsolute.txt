@@ -1,0 +1,7 @@
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP服务端\bin\Debug\TCP服务端.exe.config
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP服务端\bin\Debug\TCP服务端.exe
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP服务端\bin\Debug\TCP服务端.pdb
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP服务端\obj\Debug\TCP服务端.csprojAssemblyReference.cache
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP服务端\obj\Debug\TCP服务端.csproj.CoreCompileInputs.cache
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP服务端\obj\Debug\TCP服务端.exe
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP服务端\obj\Debug\TCP服务端.pdb

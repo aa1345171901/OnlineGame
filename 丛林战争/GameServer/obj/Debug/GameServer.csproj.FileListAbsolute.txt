@@ -1,0 +1,30 @@
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\GameServer.exe.config
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\GameServer.exe
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\GameServer.pdb
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\Common.dll
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\MySql.Data.dll
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\Common.pdb
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\MySql.Data.xml
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\obj\Debug\GameServer.exe
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\obj\Debug\GameServer.pdb
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\Google.Protobuf.dll
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\Renci.SshNet.dll
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\GameServer\bin\Debug\BouncyCastle.Crypto.dll
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\GameServer.exe.config
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\GameServer.exe
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\GameServer.pdb
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\Common.dll
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\MySql.Data.dll
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\Google.Protobuf.dll
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\Renci.SshNet.dll
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\BouncyCastle.Crypto.dll
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\Common.pdb
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\bin\Debug\MySql.Data.xml
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\obj\Debug\GameServer.exe
+F:\unity Project\Game\OnlineGameClient\OnlineGame\丛林战争\GameServer\obj\Debug\GameServer.pdb

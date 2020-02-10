@@ -1,0 +1,7 @@
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP客户端\bin\Debug\TCP客户端.exe.config
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP客户端\bin\Debug\TCP客户端.exe
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP客户端\bin\Debug\TCP客户端.pdb
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP客户端\obj\Debug\TCP客户端.csprojAssemblyReference.cache
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP客户端\obj\Debug\TCP客户端.csproj.CoreCompileInputs.cache
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP客户端\obj\Debug\TCP客户端.exe
+F:\visual studio 2017 Project\Projects\丛林战争\丛林战争\TCP客户端\obj\Debug\TCP客户端.pdb
